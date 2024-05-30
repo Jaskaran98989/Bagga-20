@@ -1,0 +1,12 @@
+html {background-color: black;}
+div {text-align: center;}
+img {height: 400px;
+margin-top: 50px;
+border: 2px solid white;
+}
+h1 {color:white ;
+    font-family: "Kanit", sans-serif;
+    font-weight: 100;
+    font-style: normal;}
+    a {color: gray;}
+
